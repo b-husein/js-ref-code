@@ -1,5 +1,5 @@
-# js-ref-code
-reference code for JS crash course on my YT channel
+# js-ref-code-beginner
+reference code for JS crash course for beginners on my YT channel
 
 🔥 FOLLOW ME ON:
 
